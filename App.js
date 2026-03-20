@@ -2,7 +2,7 @@ const anoNascimento = 2005;
 const anoAtual = 2026;
 const  idade = anoAtual - anoNascimento;
 
-const.log("sua idade é: " + idade);
+console.log("Sua idade é: " + idade);
 
 if (idade >= 18) {
   console.log ("Você não é patinho parabéns!!.");
