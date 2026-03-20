@@ -9,5 +9,5 @@ if (idade >= 18) {
 } else if (idade >= 16) {
   console.log ("Você é um patinho vaza!!.");
 } else {
-  console.log ("Você é muito patinho.");
+  console.log ("Você é muito patinho."); 
 }
